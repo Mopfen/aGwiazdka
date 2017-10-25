@@ -1,0 +1,11 @@
+﻿  Main.cpp
+Main.cpp(82): error C2446: "==": brak konwersji z "int" na "int ***"
+  Main.cpp(82): note: Konwersja z typu całkowitego na typ wskaźnika wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+Main.cpp(95): error C2446: "==": brak konwersji z "int" na "int ***"
+  Main.cpp(95): note: Konwersja z typu całkowitego na typ wskaźnika wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+Main.cpp(96): error C2440: "=": nie można konwertować z "int ***" na "int"
+  Main.cpp(96): note: Brak kontekstu, w którym ta konwersja jest możliwa
+Main.cpp(134): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+Main.cpp(244): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+Main.cpp(386): error C2440: "=": nie można konwertować z "int" na "int ***"
+  Main.cpp(386): note: Konwersja z typu całkowitego na typ wskaźnika wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji

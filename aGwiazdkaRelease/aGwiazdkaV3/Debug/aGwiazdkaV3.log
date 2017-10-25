@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\squadak\desktop\uwm\robotyka\test c++\agwiazdkarelease\agwiazdkav3\main.cpp(142): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\squadak\desktop\uwm\robotyka\test c++\agwiazdkarelease\agwiazdkav3\main.cpp(252): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  aGwiazdkaV3.vcxproj -> C:\Users\Squadak\Desktop\UWM\Robotyka\Test C++\aGwiazdkaRelease\Debug\aGwiazdkaV3.exe
+  aGwiazdkaV3.vcxproj -> C:\Users\Squadak\Desktop\UWM\Robotyka\Test C++\aGwiazdkaRelease\Debug\aGwiazdkaV3.pdb (Partial PDB)
